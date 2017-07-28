@@ -1,7 +1,7 @@
 /* Setup our aws provider */
 provider "aws" {
- access_key = "AKIAIIA6KWZUZY35OH5A"
- secret_key = "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"
+ access_key = ""
+ secret_key = ""
  region = "us-west-1"
 }
 resource "aws_instance" "demo" {
